@@ -1,0 +1,20 @@
+.header {
+  margin: 0px;
+  &__container {
+    padding: 12px 26px;
+  }
+  &__nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+.nav {
+  &__box {
+    display: flex;
+  }
+  &__img {
+    margin-left: 24px;
+    padding: 4px;
+  }
+}
